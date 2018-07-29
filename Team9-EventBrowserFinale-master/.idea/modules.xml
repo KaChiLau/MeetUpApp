@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DAMGITHUB.iml" filepath="$PROJECT_DIR$/DAMGITHUB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalVersion.iml" filepath="$PROJECT_DIR$/FinalVersion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HOPETHISWORK.iml" filepath="$PROJECT_DIR$/HOPETHISWORK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LastTest.iml" filepath="$PROJECT_DIR$/LastTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StoryFinderFinale.iml" filepath="$PROJECT_DIR$/StoryFinderFinale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Team9-EventBrowserFinaleFinale.iml" filepath="$PROJECT_DIR$/Team9-EventBrowserFinaleFinale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Team9-EventBrowserFinaleFinaleFinale.iml" filepath="$PROJECT_DIR$/Team9-EventBrowserFinaleFinaleFinale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testing5.iml" filepath="$PROJECT_DIR$/Testing5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestingIII.iml" filepath="$PROJECT_DIR$/TestingIII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
